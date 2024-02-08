@@ -11,7 +11,7 @@ st.set_page_config(page_title=" Iris Dashboard",
 )
 
 # Path to the CSV file
-csv_file_path = "C:/Users/Admin/Desktop/Deployment/data/Iris.csv"
+csv_file_path = "Iris.csv"
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(csv_file_path)
